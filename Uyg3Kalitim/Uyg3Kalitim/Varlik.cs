@@ -27,5 +27,14 @@ namespace Uyg3Kalitim
         {
             Console.WriteLine("Varlik nesnesi olusturuldu");
         }
+        public virtual void yuru()
+        {
+            Console.WriteLine("Varlik gibi yuruo");
+        }
+
+        public void sesVer() {
+            Console.WriteLine("Varlik gibi ses verio");
+        }
+
     }
 }

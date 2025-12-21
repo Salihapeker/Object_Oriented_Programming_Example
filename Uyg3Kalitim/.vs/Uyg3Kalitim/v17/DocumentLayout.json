@@ -3,15 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\repos\\Uyg3Kalitim\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7B4E36AC-0C8E-46B4-A482-03983A8F97B7}|Uyg3Kalitim\\Uyg3Kalitim.csproj|C:\\Users\\MONSTER\\source\\repos\\Uyg3Kalitim\\uyg3kalitim\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B4E36AC-0C8E-46B4-A482-03983A8F97B7}|Uyg3Kalitim\\Uyg3Kalitim.csproj|solutionrelative:uyg3kalitim\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7B4E36AC-0C8E-46B4-A482-03983A8F97B7}|Uyg3Kalitim\\Uyg3Kalitim.csproj|c:\\users\\monster\\source\\repos\\uyg3kalitim\\uyg3kalitim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B4E36AC-0C8E-46B4-A482-03983A8F97B7}|Uyg3Kalitim\\Uyg3Kalitim.csproj|solutionrelative:uyg3kalitim\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B4E36AC-0C8E-46B4-A482-03983A8F97B7}|Uyg3Kalitim\\Uyg3Kalitim.csproj|c:\\users\\monster\\source\\repos\\uyg3kalitim\\uyg3kalitim\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B4E36AC-0C8E-46B4-A482-03983A8F97B7}|Uyg3Kalitim\\Uyg3Kalitim.csproj|solutionrelative:uyg3kalitim\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B4E36AC-0C8E-46B4-A482-03983A8F97B7}|Uyg3Kalitim\\Uyg3Kalitim.csproj|c:\\users\\monster\\source\\repos\\uyg3kalitim\\uyg3kalitim\\varlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B4E36AC-0C8E-46B4-A482-03983A8F97B7}|Uyg3Kalitim\\Uyg3Kalitim.csproj|C:\\Users\\MONSTER\\source\\repos\\Uyg3Kalitim\\uyg3kalitim\\varlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B4E36AC-0C8E-46B4-A482-03983A8F97B7}|Uyg3Kalitim\\Uyg3Kalitim.csproj|solutionrelative:uyg3kalitim\\varlik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Kedi.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg3Kalitim\\Uyg3Kalitim\\Kedi.cs",
               "RelativeDocumentMoniker": "Uyg3Kalitim\\Kedi.cs",
               "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg3Kalitim\\Uyg3Kalitim\\Kedi.cs",
               "RelativeToolTip": "Uyg3Kalitim\\Kedi.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-21T10:24:37.286Z",
               "EditorCaption": ""
@@ -45,20 +45,20 @@
               "RelativeDocumentMoniker": "Uyg3Kalitim\\Varlik.cs",
               "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg3Kalitim\\Uyg3Kalitim\\Varlik.cs",
               "RelativeToolTip": "Uyg3Kalitim\\Varlik.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-21T10:22:30.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg3Kalitim\\Uyg3Kalitim\\Program.cs",
               "RelativeDocumentMoniker": "Uyg3Kalitim\\Program.cs",
               "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg3Kalitim\\Uyg3Kalitim\\Program.cs",
               "RelativeToolTip": "Uyg3Kalitim\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-21T10:18:21.966Z",
               "EditorCaption": ""
