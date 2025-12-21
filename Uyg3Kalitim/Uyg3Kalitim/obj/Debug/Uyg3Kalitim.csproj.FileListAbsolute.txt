@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Uyg3Kalitim\Uyg3Kalitim\bin\Debug\Uyg3Kalitim.exe.config
+C:\Users\MONSTER\source\repos\Uyg3Kalitim\Uyg3Kalitim\bin\Debug\Uyg3Kalitim.exe
+C:\Users\MONSTER\source\repos\Uyg3Kalitim\Uyg3Kalitim\bin\Debug\Uyg3Kalitim.pdb
+C:\Users\MONSTER\source\repos\Uyg3Kalitim\Uyg3Kalitim\obj\Debug\Uyg3Kalitim.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Uyg3Kalitim\Uyg3Kalitim\obj\Debug\Uyg3Kalitim.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Uyg3Kalitim\Uyg3Kalitim\obj\Debug\Uyg3Kalitim.exe
+C:\Users\MONSTER\source\repos\Uyg3Kalitim\Uyg3Kalitim\obj\Debug\Uyg3Kalitim.pdb
