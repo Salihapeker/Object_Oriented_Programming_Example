@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Uyg4Sekil\Uyg4Sekil\bin\Debug\Uyg4Sekil.exe.config
+C:\Users\MONSTER\source\repos\Uyg4Sekil\Uyg4Sekil\bin\Debug\Uyg4Sekil.exe
+C:\Users\MONSTER\source\repos\Uyg4Sekil\Uyg4Sekil\bin\Debug\Uyg4Sekil.pdb
+C:\Users\MONSTER\source\repos\Uyg4Sekil\Uyg4Sekil\obj\Debug\Uyg4Sekil.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Uyg4Sekil\Uyg4Sekil\obj\Debug\Uyg4Sekil.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Uyg4Sekil\Uyg4Sekil\obj\Debug\Uyg4Sekil.exe
+C:\Users\MONSTER\source\repos\Uyg4Sekil\Uyg4Sekil\obj\Debug\Uyg4Sekil.pdb
