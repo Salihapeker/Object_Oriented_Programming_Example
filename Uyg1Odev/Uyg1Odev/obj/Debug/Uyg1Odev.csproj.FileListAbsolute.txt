@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Uyg1Odev\Uyg1Odev\bin\Debug\Uyg1Odev.exe.config
+C:\Users\MONSTER\source\repos\Uyg1Odev\Uyg1Odev\bin\Debug\Uyg1Odev.exe
+C:\Users\MONSTER\source\repos\Uyg1Odev\Uyg1Odev\bin\Debug\Uyg1Odev.pdb
+C:\Users\MONSTER\source\repos\Uyg1Odev\Uyg1Odev\obj\Debug\Uyg1Odev.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Uyg1Odev\Uyg1Odev\obj\Debug\Uyg1Odev.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Uyg1Odev\Uyg1Odev\obj\Debug\Uyg1Odev.exe
+C:\Users\MONSTER\source\repos\Uyg1Odev\Uyg1Odev\obj\Debug\Uyg1Odev.pdb

@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Uyg2Singleton\Uyg2Singleton\bin\Debug\Uyg2Singleton.exe.config
+C:\Users\MONSTER\source\repos\Uyg2Singleton\Uyg2Singleton\bin\Debug\Uyg2Singleton.exe
+C:\Users\MONSTER\source\repos\Uyg2Singleton\Uyg2Singleton\bin\Debug\Uyg2Singleton.pdb
+C:\Users\MONSTER\source\repos\Uyg2Singleton\Uyg2Singleton\obj\Debug\Uyg2Singleton.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Uyg2Singleton\Uyg2Singleton\obj\Debug\Uyg2Singleton.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Uyg2Singleton\Uyg2Singleton\obj\Debug\Uyg2Singleton.exe
+C:\Users\MONSTER\source\repos\Uyg2Singleton\Uyg2Singleton\obj\Debug\Uyg2Singleton.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Odev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DCB9C8-52F8-4438-A38B-7CEE3A20F5CC}|Uyg1Odev\\Uyg1Odev.csproj|c:\\users\\monster\\source\\repos\\uyg1odev\\uyg1odev\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DCB9C8-52F8-4438-A38B-7CEE3A20F5CC}|Uyg1Odev\\Uyg1Odev.csproj|solutionrelative:uyg1odev\\kitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DCB9C8-52F8-4438-A38B-7CEE3A20F5CC}|Uyg1Odev\\Uyg1Odev.csproj|c:\\users\\monster\\source\\repos\\uyg1odev\\uyg1odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DCB9C8-52F8-4438-A38B-7CEE3A20F5CC}|Uyg1Odev\\Uyg1Odev.csproj|solutionrelative:uyg1odev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kitap.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Odev\\Uyg1Odev\\Kitap.cs",
+              "RelativeDocumentMoniker": "Uyg1Odev\\Kitap.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Odev\\Uyg1Odev\\Kitap.cs",
+              "RelativeToolTip": "Uyg1Odev\\Kitap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:34:56.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Odev\\Uyg1Odev\\Program.cs",
+              "RelativeDocumentMoniker": "Uyg1Odev\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Odev\\Uyg1Odev\\Program.cs",
+              "RelativeToolTip": "Uyg1Odev\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:34:39.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

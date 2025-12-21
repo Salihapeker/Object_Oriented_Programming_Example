@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\repos\\Uyg1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0605E6B-A450-4BF5-A3F7-DF9B33339B04}|Uyg1\\Uyg1.csproj|c:\\users\\monster\\source\\repos\\uyg1\\uyg1\\raporlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0605E6B-A450-4BF5-A3F7-DF9B33339B04}|Uyg1\\Uyg1.csproj|solutionrelative:uyg1\\raporlama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0605E6B-A450-4BF5-A3F7-DF9B33339B04}|Uyg1\\Uyg1.csproj|C:\\Users\\MONSTER\\source\\repos\\Uyg1\\uyg1\\adresdefteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0605E6B-A450-4BF5-A3F7-DF9B33339B04}|Uyg1\\Uyg1.csproj|solutionrelative:uyg1\\adresdefteri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0605E6B-A450-4BF5-A3F7-DF9B33339B04}|Uyg1\\Uyg1.csproj|C:\\Users\\MONSTER\\source\\repos\\Uyg1\\uyg1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0605E6B-A450-4BF5-A3F7-DF9B33339B04}|Uyg1\\Uyg1.csproj|solutionrelative:uyg1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0605E6B-A450-4BF5-A3F7-DF9B33339B04}|Uyg1\\Uyg1.csproj|C:\\Users\\MONSTER\\source\\repos\\Uyg1\\uyg1\\ki\u015Fi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0605E6B-A450-4BF5-A3F7-DF9B33339B04}|Uyg1\\Uyg1.csproj|solutionrelative:uyg1\\ki\u015Fi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Raporlama.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg1\\Uyg1\\Raporlama.cs",
+              "RelativeDocumentMoniker": "Uyg1\\Raporlama.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg1\\Uyg1\\Raporlama.cs",
+              "RelativeToolTip": "Uyg1\\Raporlama.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T09:08:48.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdresDefteri.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg1\\Uyg1\\AdresDefteri.cs",
+              "RelativeDocumentMoniker": "Uyg1\\AdresDefteri.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg1\\Uyg1\\AdresDefteri.cs",
+              "RelativeToolTip": "Uyg1\\AdresDefteri.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwCsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-14T15:02:12.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ki\u015Fi.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg1\\Uyg1\\Ki\u015Fi.cs",
+              "RelativeDocumentMoniker": "Uyg1\\Ki\u015Fi.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg1\\Uyg1\\Ki\u015Fi.cs",
+              "RelativeToolTip": "Uyg1\\Ki\u015Fi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-12T10:26:35.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg1\\Uyg1\\Program.cs",
+              "RelativeDocumentMoniker": "Uyg1\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg1\\Uyg1\\Program.cs",
+              "RelativeToolTip": "Uyg1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-11T11:35:14.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

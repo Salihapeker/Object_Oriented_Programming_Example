@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Uyg4Donusum\Uyg4Donusum\bin\Debug\Uyg4Donusum.exe.config
+C:\Users\MONSTER\source\repos\Uyg4Donusum\Uyg4Donusum\bin\Debug\Uyg4Donusum.exe
+C:\Users\MONSTER\source\repos\Uyg4Donusum\Uyg4Donusum\bin\Debug\Uyg4Donusum.pdb
+C:\Users\MONSTER\source\repos\Uyg4Donusum\Uyg4Donusum\obj\Debug\Uyg4Donusum.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Uyg4Donusum\Uyg4Donusum\obj\Debug\Uyg4Donusum.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Uyg4Donusum\Uyg4Donusum\obj\Debug\Uyg4Donusum.exe
+C:\Users\MONSTER\source\repos\Uyg4Donusum\Uyg4Donusum\obj\Debug\Uyg4Donusum.pdb

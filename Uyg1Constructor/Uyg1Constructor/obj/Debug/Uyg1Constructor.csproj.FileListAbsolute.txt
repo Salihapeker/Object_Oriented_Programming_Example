@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Uyg1Constructor\Uyg1Constructor\bin\Debug\Uyg1Constructor.exe.config
+C:\Users\MONSTER\source\repos\Uyg1Constructor\Uyg1Constructor\bin\Debug\Uyg1Constructor.exe
+C:\Users\MONSTER\source\repos\Uyg1Constructor\Uyg1Constructor\bin\Debug\Uyg1Constructor.pdb
+C:\Users\MONSTER\source\repos\Uyg1Constructor\Uyg1Constructor\obj\Debug\Uyg1Constructor.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Uyg1Constructor\Uyg1Constructor\obj\Debug\Uyg1Constructor.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Uyg1Constructor\Uyg1Constructor\obj\Debug\Uyg1Constructor.exe
+C:\Users\MONSTER\source\repos\Uyg1Constructor\Uyg1Constructor\obj\Debug\Uyg1Constructor.pdb
