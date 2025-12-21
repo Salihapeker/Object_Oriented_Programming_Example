@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Uyg2Generiic\Uyg2Generiic\bin\Debug\Uyg2Generiic.exe.config
+C:\Users\MONSTER\source\repos\Uyg2Generiic\Uyg2Generiic\bin\Debug\Uyg2Generiic.exe
+C:\Users\MONSTER\source\repos\Uyg2Generiic\Uyg2Generiic\bin\Debug\Uyg2Generiic.pdb
+C:\Users\MONSTER\source\repos\Uyg2Generiic\Uyg2Generiic\obj\Debug\Uyg2Generiic.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Uyg2Generiic\Uyg2Generiic\obj\Debug\Uyg2Generiic.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Uyg2Generiic\Uyg2Generiic\obj\Debug\Uyg2Generiic.exe
+C:\Users\MONSTER\source\repos\Uyg2Generiic\Uyg2Generiic\obj\Debug\Uyg2Generiic.pdb
