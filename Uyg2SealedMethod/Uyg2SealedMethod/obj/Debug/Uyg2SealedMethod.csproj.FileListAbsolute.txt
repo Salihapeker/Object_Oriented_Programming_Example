@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Uyg2SealedMethod\Uyg2SealedMethod\bin\Debug\Uyg2SealedMethod.exe.config
+C:\Users\MONSTER\source\repos\Uyg2SealedMethod\Uyg2SealedMethod\bin\Debug\Uyg2SealedMethod.exe
+C:\Users\MONSTER\source\repos\Uyg2SealedMethod\Uyg2SealedMethod\bin\Debug\Uyg2SealedMethod.pdb
+C:\Users\MONSTER\source\repos\Uyg2SealedMethod\Uyg2SealedMethod\obj\Debug\Uyg2SealedMethod.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Uyg2SealedMethod\Uyg2SealedMethod\obj\Debug\Uyg2SealedMethod.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Uyg2SealedMethod\Uyg2SealedMethod\obj\Debug\Uyg2SealedMethod.exe
+C:\Users\MONSTER\source\repos\Uyg2SealedMethod\Uyg2SealedMethod\obj\Debug\Uyg2SealedMethod.pdb
