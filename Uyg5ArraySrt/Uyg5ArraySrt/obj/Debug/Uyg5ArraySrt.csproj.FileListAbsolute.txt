@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Uyg5ArraySrt\Uyg5ArraySrt\bin\Debug\Uyg5ArraySrt.exe.config
+C:\Users\MONSTER\source\repos\Uyg5ArraySrt\Uyg5ArraySrt\bin\Debug\Uyg5ArraySrt.exe
+C:\Users\MONSTER\source\repos\Uyg5ArraySrt\Uyg5ArraySrt\bin\Debug\Uyg5ArraySrt.pdb
+C:\Users\MONSTER\source\repos\Uyg5ArraySrt\Uyg5ArraySrt\obj\Debug\Uyg5ArraySrt.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Uyg5ArraySrt\Uyg5ArraySrt\obj\Debug\Uyg5ArraySrt.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Uyg5ArraySrt\Uyg5ArraySrt\obj\Debug\Uyg5ArraySrt.exe
+C:\Users\MONSTER\source\repos\Uyg5ArraySrt\Uyg5ArraySrt\obj\Debug\Uyg5ArraySrt.pdb
