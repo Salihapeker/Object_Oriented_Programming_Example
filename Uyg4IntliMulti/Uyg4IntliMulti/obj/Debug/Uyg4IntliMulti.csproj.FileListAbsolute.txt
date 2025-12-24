@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Uyg4IntliMulti\Uyg4IntliMulti\bin\Debug\Uyg4IntliMulti.exe.config
+C:\Users\MONSTER\source\repos\Uyg4IntliMulti\Uyg4IntliMulti\bin\Debug\Uyg4IntliMulti.exe
+C:\Users\MONSTER\source\repos\Uyg4IntliMulti\Uyg4IntliMulti\bin\Debug\Uyg4IntliMulti.pdb
+C:\Users\MONSTER\source\repos\Uyg4IntliMulti\Uyg4IntliMulti\obj\Debug\Uyg4IntliMulti.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Uyg4IntliMulti\Uyg4IntliMulti\obj\Debug\Uyg4IntliMulti.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Uyg4IntliMulti\Uyg4IntliMulti\obj\Debug\Uyg4IntliMulti.exe
+C:\Users\MONSTER\source\repos\Uyg4IntliMulti\Uyg4IntliMulti\obj\Debug\Uyg4IntliMulti.pdb
