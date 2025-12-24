@@ -1,0 +1,2 @@
+C:\Users\MONSTER\source\repos\Uyg1Abstract\Uyg1Abstract\obj\Debug\Uyg1Abstract.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Uyg1Abstract\Uyg1Abstract\obj\Debug\Uyg1Abstract.csproj.CoreCompileInputs.cache

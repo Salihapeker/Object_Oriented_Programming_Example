@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Abstract\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A371B4FF-CF36-464F-9FA4-7319BE6592B8}|Uyg1Abstract\\Uyg1Abstract.csproj|c:\\users\\monster\\source\\repos\\uyg1abstract\\uyg1abstract\\kalitimakapalisinif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A371B4FF-CF36-464F-9FA4-7319BE6592B8}|Uyg1Abstract\\Uyg1Abstract.csproj|solutionrelative:uyg1abstract\\kalitimakapalisinif.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A371B4FF-CF36-464F-9FA4-7319BE6592B8}|Uyg1Abstract\\Uyg1Abstract.csproj|c:\\users\\monster\\source\\repos\\uyg1abstract\\uyg1abstract\\katbutonu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A371B4FF-CF36-464F-9FA4-7319BE6592B8}|Uyg1Abstract\\Uyg1Abstract.csproj|solutionrelative:uyg1abstract\\katbutonu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A371B4FF-CF36-464F-9FA4-7319BE6592B8}|Uyg1Abstract\\Uyg1Abstract.csproj|c:\\users\\monster\\source\\repos\\uyg1abstract\\uyg1abstract\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A371B4FF-CF36-464F-9FA4-7319BE6592B8}|Uyg1Abstract\\Uyg1Abstract.csproj|solutionrelative:uyg1abstract\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A371B4FF-CF36-464F-9FA4-7319BE6592B8}|Uyg1Abstract\\Uyg1Abstract.csproj|c:\\users\\monster\\source\\repos\\uyg1abstract\\uyg1abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A371B4FF-CF36-464F-9FA4-7319BE6592B8}|Uyg1Abstract\\Uyg1Abstract.csproj|solutionrelative:uyg1abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KalitimaKapaliSinif.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Abstract\\Uyg1Abstract\\KalitimaKapaliSinif.cs",
+              "RelativeDocumentMoniker": "Uyg1Abstract\\KalitimaKapaliSinif.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Abstract\\Uyg1Abstract\\KalitimaKapaliSinif.cs",
+              "RelativeToolTip": "Uyg1Abstract\\KalitimaKapaliSinif.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T07:08:56.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KatButonu.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Abstract\\Uyg1Abstract\\KatButonu.cs",
+              "RelativeDocumentMoniker": "Uyg1Abstract\\KatButonu.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Abstract\\Uyg1Abstract\\KatButonu.cs",
+              "RelativeToolTip": "Uyg1Abstract\\KatButonu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T06:49:50.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Abstract\\Uyg1Abstract\\Button.cs",
+              "RelativeDocumentMoniker": "Uyg1Abstract\\Button.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Abstract\\Uyg1Abstract\\Button.cs",
+              "RelativeToolTip": "Uyg1Abstract\\Button.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T06:35:44.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Abstract\\Uyg1Abstract\\Program.cs",
+              "RelativeDocumentMoniker": "Uyg1Abstract\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg1Abstract\\Uyg1Abstract\\Program.cs",
+              "RelativeToolTip": "Uyg1Abstract\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T10:03:18.337Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
