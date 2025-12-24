@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Uyg3IntsizAbs\Uyg3IntsizAbs\bin\Debug\Uyg3IntsizAbs.exe.config
+C:\Users\MONSTER\source\repos\Uyg3IntsizAbs\Uyg3IntsizAbs\bin\Debug\Uyg3IntsizAbs.exe
+C:\Users\MONSTER\source\repos\Uyg3IntsizAbs\Uyg3IntsizAbs\bin\Debug\Uyg3IntsizAbs.pdb
+C:\Users\MONSTER\source\repos\Uyg3IntsizAbs\Uyg3IntsizAbs\obj\Debug\Uyg3IntsizAbs.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Uyg3IntsizAbs\Uyg3IntsizAbs\obj\Debug\Uyg3IntsizAbs.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Uyg3IntsizAbs\Uyg3IntsizAbs\obj\Debug\Uyg3IntsizAbs.exe
+C:\Users\MONSTER\source\repos\Uyg3IntsizAbs\Uyg3IntsizAbs\obj\Debug\Uyg3IntsizAbs.pdb

@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|c:\\users\\monster\\source\\repos\\uyg3intsizabs\\uyg3intsizabs\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|solutionrelative:uyg3intsizabs\\kedi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|c:\\users\\monster\\source\\repos\\uyg3intsizabs\\uyg3intsizabs\\kopek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|solutionrelative:uyg3intsizabs\\kopek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|c:\\users\\monster\\source\\repos\\uyg3intsizabs\\uyg3intsizabs\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|solutionrelative:uyg3intsizabs\\insan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|c:\\users\\monster\\source\\repos\\uyg3intsizabs\\uyg3intsizabs\\danstoplulugu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|solutionrelative:uyg3intsizabs\\danstoplulugu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|c:\\users\\monster\\source\\repos\\uyg3intsizabs\\uyg3intsizabs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|solutionrelative:uyg3intsizabs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|c:\\users\\monster\\source\\repos\\uyg3intsizabs\\uyg3intsizabs\\koro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|solutionrelative:uyg3intsizabs\\koro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|c:\\users\\monster\\source\\repos\\uyg3intsizabs\\uyg3intsizabs\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|solutionrelative:uyg3intsizabs\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|c:\\users\\monster\\source\\repos\\uyg3intsizabs\\uyg3intsizabs\\dansedebilenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B7F287E-2358-4704-BA71-97A8F0703641}|Uyg3IntsizAbs\\Uyg3IntsizAbs.csproj|solutionrelative:uyg3intsizabs\\dansedebilenler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\Robot.cs",
+              "RelativeDocumentMoniker": "Uyg3IntsizAbs\\Robot.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\Robot.cs",
+              "RelativeToolTip": "Uyg3IntsizAbs\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T09:58:46.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DansEdebilenler.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\DansEdebilenler.cs",
+              "RelativeDocumentMoniker": "Uyg3IntsizAbs\\DansEdebilenler.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\DansEdebilenler.cs",
+              "RelativeToolTip": "Uyg3IntsizAbs\\DansEdebilenler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T09:56:09.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DansToplulugu.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\DansToplulugu.cs",
+              "RelativeDocumentMoniker": "Uyg3IntsizAbs\\DansToplulugu.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\DansToplulugu.cs",
+              "RelativeToolTip": "Uyg3IntsizAbs\\DansToplulugu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T09:54:29.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Insan.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\Insan.cs",
+              "RelativeDocumentMoniker": "Uyg3IntsizAbs\\Insan.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\Insan.cs",
+              "RelativeToolTip": "Uyg3IntsizAbs\\Insan.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T09:48:36.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kopek.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\Kopek.cs",
+              "RelativeDocumentMoniker": "Uyg3IntsizAbs\\Kopek.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\Kopek.cs",
+              "RelativeToolTip": "Uyg3IntsizAbs\\Kopek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T09:44:32.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kedi.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\Kedi.cs",
+              "RelativeDocumentMoniker": "Uyg3IntsizAbs\\Kedi.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\Kedi.cs",
+              "RelativeToolTip": "Uyg3IntsizAbs\\Kedi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T09:41:15.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Koro.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\Koro.cs",
+              "RelativeDocumentMoniker": "Uyg3IntsizAbs\\Koro.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\Koro.cs",
+              "RelativeToolTip": "Uyg3IntsizAbs\\Koro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T09:36:23.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\Program.cs",
+              "RelativeDocumentMoniker": "Uyg3IntsizAbs\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg3IntsizAbs\\Uyg3IntsizAbs\\Program.cs",
+              "RelativeToolTip": "Uyg3IntsizAbs\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-24T09:35:03.429Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
