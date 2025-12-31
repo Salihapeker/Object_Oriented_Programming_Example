@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\OCPExmp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58A1028E-580C-453F-B5F5-574C136EB408}|OCPExmp1\\OCPExmp1.csproj|c:\\users\\monster\\desktop\\paylas\u0131lanoop\\ocpexmp1\\ocpexmp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A1028E-580C-453F-B5F5-574C136EB408}|OCPExmp1\\OCPExmp1.csproj|solutionrelative:ocpexmp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58A1028E-580C-453F-B5F5-574C136EB408}|OCPExmp1\\OCPExmp1.csproj|c:\\users\\monster\\desktop\\paylas\u0131lanoop\\ocpexmp1\\ocpexmp1\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58A1028E-580C-453F-B5F5-574C136EB408}|OCPExmp1\\OCPExmp1.csproj|solutionrelative:ocpexmp1\\odeme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\OCPExmp1\\OCPExmp1\\Program.cs",
+              "RelativeDocumentMoniker": "OCPExmp1\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\OCPExmp1\\OCPExmp1\\Program.cs",
+              "RelativeToolTip": "OCPExmp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:33:30.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Odeme.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\OCPExmp1\\OCPExmp1\\Odeme.cs",
+              "RelativeDocumentMoniker": "OCPExmp1\\Odeme.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\OCPExmp1\\OCPExmp1\\Odeme.cs",
+              "RelativeToolTip": "OCPExmp1\\Odeme.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:33:28.787Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
