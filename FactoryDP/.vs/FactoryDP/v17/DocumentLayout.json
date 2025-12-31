@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\FactoryDP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D09FB90A-3493-4E48-9048-AE0BFE17926E}|FactoryDP\\FactoryDP.csproj|c:\\users\\monster\\desktop\\paylas\u0131lanoop\\factorydp\\factorydp\\vegeteryanpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09FB90A-3493-4E48-9048-AE0BFE17926E}|FactoryDP\\FactoryDP.csproj|solutionrelative:factorydp\\vegeteryanpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09FB90A-3493-4E48-9048-AE0BFE17926E}|FactoryDP\\FactoryDP.csproj|c:\\users\\monster\\desktop\\paylas\u0131lanoop\\factorydp\\factorydp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09FB90A-3493-4E48-9048-AE0BFE17926E}|FactoryDP\\FactoryDP.csproj|solutionrelative:factorydp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09FB90A-3493-4E48-9048-AE0BFE17926E}|FactoryDP\\FactoryDP.csproj|c:\\users\\monster\\desktop\\paylas\u0131lanoop\\factorydp\\factorydp\\pizzadukkani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09FB90A-3493-4E48-9048-AE0BFE17926E}|FactoryDP\\FactoryDP.csproj|solutionrelative:factorydp\\pizzadukkani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09FB90A-3493-4E48-9048-AE0BFE17926E}|FactoryDP\\FactoryDP.csproj|c:\\users\\monster\\desktop\\paylas\u0131lanoop\\factorydp\\factorydp\\karisikpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09FB90A-3493-4E48-9048-AE0BFE17926E}|FactoryDP\\FactoryDP.csproj|solutionrelative:factorydp\\karisikpizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D09FB90A-3493-4E48-9048-AE0BFE17926E}|FactoryDP\\FactoryDP.csproj|c:\\users\\monster\\desktop\\paylas\u0131lanoop\\factorydp\\factorydp\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D09FB90A-3493-4E48-9048-AE0BFE17926E}|FactoryDP\\FactoryDP.csproj|solutionrelative:factorydp\\ipizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VegeteryanPizza.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\FactoryDP\\FactoryDP\\VegeteryanPizza.cs",
+              "RelativeDocumentMoniker": "FactoryDP\\VegeteryanPizza.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\FactoryDP\\FactoryDP\\VegeteryanPizza.cs",
+              "RelativeToolTip": "FactoryDP\\VegeteryanPizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:26:33.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\FactoryDP\\FactoryDP\\Program.cs",
+              "RelativeDocumentMoniker": "FactoryDP\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\FactoryDP\\FactoryDP\\Program.cs",
+              "RelativeToolTip": "FactoryDP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:26:32.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PizzaDukkani.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\FactoryDP\\FactoryDP\\PizzaDukkani.cs",
+              "RelativeDocumentMoniker": "FactoryDP\\PizzaDukkani.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\FactoryDP\\FactoryDP\\PizzaDukkani.cs",
+              "RelativeToolTip": "FactoryDP\\PizzaDukkani.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:26:31.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KarisikPizza.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\FactoryDP\\FactoryDP\\KarisikPizza.cs",
+              "RelativeDocumentMoniker": "FactoryDP\\KarisikPizza.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\FactoryDP\\FactoryDP\\KarisikPizza.cs",
+              "RelativeToolTip": "FactoryDP\\KarisikPizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:26:30.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPizza.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\FactoryDP\\FactoryDP\\IPizza.cs",
+              "RelativeDocumentMoniker": "FactoryDP\\IPizza.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\Desktop\\paylas\u0131lanoop\\FactoryDP\\FactoryDP\\IPizza.cs",
+              "RelativeToolTip": "FactoryDP\\IPizza.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T10:26:29.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+D:\OOP\2025_26\h15\g1\FactoryDP\FactoryDP\bin\Debug\FactoryDP.exe.config
+D:\OOP\2025_26\h15\g1\FactoryDP\FactoryDP\bin\Debug\FactoryDP.exe
+D:\OOP\2025_26\h15\g1\FactoryDP\FactoryDP\bin\Debug\FactoryDP.pdb
+D:\OOP\2025_26\h15\g1\FactoryDP\FactoryDP\obj\Debug\FactoryDP.csprojAssemblyReference.cache
+D:\OOP\2025_26\h15\g1\FactoryDP\FactoryDP\obj\Debug\FactoryDP.csproj.CoreCompileInputs.cache
+D:\OOP\2025_26\h15\g1\FactoryDP\FactoryDP\obj\Debug\FactoryDP.exe
+D:\OOP\2025_26\h15\g1\FactoryDP\FactoryDP\obj\Debug\FactoryDP.pdb
