@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryDP2", "FactoryDP2\FactoryDP2.csproj", "{576BD0CF-9711-402A-8219-DAB1B1F7EC7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{576BD0CF-9711-402A-8219-DAB1B1F7EC7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{576BD0CF-9711-402A-8219-DAB1B1F7EC7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{576BD0CF-9711-402A-8219-DAB1B1F7EC7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{576BD0CF-9711-402A-8219-DAB1B1F7EC7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88583EB1-D3A5-467C-BF79-085FFB5F7C52}
+	EndGlobalSection
+EndGlobal
