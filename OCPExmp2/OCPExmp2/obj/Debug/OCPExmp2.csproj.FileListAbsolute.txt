@@ -1,0 +1,7 @@
+D:\OOP\2025_26\h14\OCPExmp2\OCPExmp2\bin\Debug\OCPExmp2.exe.config
+D:\OOP\2025_26\h14\OCPExmp2\OCPExmp2\bin\Debug\OCPExmp2.exe
+D:\OOP\2025_26\h14\OCPExmp2\OCPExmp2\bin\Debug\OCPExmp2.pdb
+D:\OOP\2025_26\h14\OCPExmp2\OCPExmp2\obj\Debug\OCPExmp2.csprojAssemblyReference.cache
+D:\OOP\2025_26\h14\OCPExmp2\OCPExmp2\obj\Debug\OCPExmp2.csproj.CoreCompileInputs.cache
+D:\OOP\2025_26\h14\OCPExmp2\OCPExmp2\obj\Debug\OCPExmp2.exe
+D:\OOP\2025_26\h14\OCPExmp2\OCPExmp2\obj\Debug\OCPExmp2.pdb
