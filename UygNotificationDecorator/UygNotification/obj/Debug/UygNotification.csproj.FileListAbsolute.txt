@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\UygNotification\UygNotification\bin\Debug\UygNotification.exe.config
+C:\Users\MONSTER\source\repos\UygNotification\UygNotification\bin\Debug\UygNotification.exe
+C:\Users\MONSTER\source\repos\UygNotification\UygNotification\bin\Debug\UygNotification.pdb
+C:\Users\MONSTER\source\repos\UygNotification\UygNotification\obj\Debug\UygNotification.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\UygNotification\UygNotification\obj\Debug\UygNotification.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\UygNotification\UygNotification\obj\Debug\UygNotification.exe
+C:\Users\MONSTER\source\repos\UygNotification\UygNotification\obj\Debug\UygNotification.pdb
