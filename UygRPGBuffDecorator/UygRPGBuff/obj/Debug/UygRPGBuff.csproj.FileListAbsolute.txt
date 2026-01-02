@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\UygRPGBuff\UygRPGBuff\bin\Debug\UygRPGBuff.exe.config
+C:\Users\MONSTER\source\repos\UygRPGBuff\UygRPGBuff\bin\Debug\UygRPGBuff.exe
+C:\Users\MONSTER\source\repos\UygRPGBuff\UygRPGBuff\bin\Debug\UygRPGBuff.pdb
+C:\Users\MONSTER\source\repos\UygRPGBuff\UygRPGBuff\obj\Debug\UygRPGBuff.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\UygRPGBuff\UygRPGBuff\obj\Debug\UygRPGBuff.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\UygRPGBuff\UygRPGBuff\obj\Debug\UygRPGBuff.exe
+C:\Users\MONSTER\source\repos\UygRPGBuff\UygRPGBuff\obj\Debug\UygRPGBuff.pdb

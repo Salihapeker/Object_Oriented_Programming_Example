@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\repos\\UygRPGBuff\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35D49460-C09E-4C1A-9A32-569DFEFEC184}|UygRPGBuff\\UygRPGBuff.csproj|c:\\users\\monster\\source\\repos\\uygrpgbuff\\uygrpgbuff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D49460-C09E-4C1A-9A32-569DFEFEC184}|UygRPGBuff\\UygRPGBuff.csproj|solutionrelative:uygrpgbuff\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D49460-C09E-4C1A-9A32-569DFEFEC184}|UygRPGBuff\\UygRPGBuff.csproj|c:\\users\\monster\\source\\repos\\uygrpgbuff\\uygrpgbuff\\zirhbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D49460-C09E-4C1A-9A32-569DFEFEC184}|UygRPGBuff\\UygRPGBuff.csproj|solutionrelative:uygrpgbuff\\zirhbuff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D49460-C09E-4C1A-9A32-569DFEFEC184}|UygRPGBuff\\UygRPGBuff.csproj|c:\\users\\monster\\source\\repos\\uygrpgbuff\\uygrpgbuff\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D49460-C09E-4C1A-9A32-569DFEFEC184}|UygRPGBuff\\UygRPGBuff.csproj|solutionrelative:uygrpgbuff\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35D49460-C09E-4C1A-9A32-569DFEFEC184}|UygRPGBuff\\UygRPGBuff.csproj|c:\\users\\monster\\source\\repos\\uygrpgbuff\\uygrpgbuff\\karakterdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35D49460-C09E-4C1A-9A32-569DFEFEC184}|UygRPGBuff\\UygRPGBuff.csproj|solutionrelative:uygrpgbuff\\karakterdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ZirhBuff.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\UygRPGBuff\\UygRPGBuff\\ZirhBuff.cs",
+              "RelativeDocumentMoniker": "UygRPGBuff\\ZirhBuff.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\UygRPGBuff\\UygRPGBuff\\ZirhBuff.cs*",
+              "RelativeToolTip": "UygRPGBuff\\ZirhBuff.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:17:55.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KarakterDecorator.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\UygRPGBuff\\UygRPGBuff\\KarakterDecorator.cs",
+              "RelativeDocumentMoniker": "UygRPGBuff\\KarakterDecorator.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\UygRPGBuff\\UygRPGBuff\\KarakterDecorator.cs*",
+              "RelativeToolTip": "UygRPGBuff\\KarakterDecorator.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:15:02.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Karakter.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\UygRPGBuff\\UygRPGBuff\\Karakter.cs",
+              "RelativeDocumentMoniker": "UygRPGBuff\\Karakter.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\UygRPGBuff\\UygRPGBuff\\Karakter.cs*",
+              "RelativeToolTip": "UygRPGBuff\\Karakter.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:13:22.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\UygRPGBuff\\UygRPGBuff\\Program.cs",
+              "RelativeDocumentMoniker": "UygRPGBuff\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\UygRPGBuff\\UygRPGBuff\\Program.cs",
+              "RelativeToolTip": "UygRPGBuff\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:12:24.102Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
