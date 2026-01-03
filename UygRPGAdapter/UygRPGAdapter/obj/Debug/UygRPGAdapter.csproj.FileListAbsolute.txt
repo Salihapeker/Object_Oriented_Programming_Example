@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\UygRPGAdapter\UygRPGAdapter\bin\Debug\UygRPGAdapter.exe.config
+C:\Users\MONSTER\source\repos\UygRPGAdapter\UygRPGAdapter\bin\Debug\UygRPGAdapter.exe
+C:\Users\MONSTER\source\repos\UygRPGAdapter\UygRPGAdapter\bin\Debug\UygRPGAdapter.pdb
+C:\Users\MONSTER\source\repos\UygRPGAdapter\UygRPGAdapter\obj\Debug\UygRPGAdapter.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\UygRPGAdapter\UygRPGAdapter\obj\Debug\UygRPGAdapter.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\UygRPGAdapter\UygRPGAdapter\obj\Debug\UygRPGAdapter.exe
+C:\Users\MONSTER\source\repos\UygRPGAdapter\UygRPGAdapter\obj\Debug\UygRPGAdapter.pdb

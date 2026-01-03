@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\repos\\UygRPGAdapter\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5AE344-21EA-4674-A168-07C80608F3EC}|UygRPGAdapter\\UygRPGAdapter.csproj|c:\\users\\monster\\source\\repos\\uygrpgadapter\\uygrpgadapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5AE344-21EA-4674-A168-07C80608F3EC}|UygRPGAdapter\\UygRPGAdapter.csproj|solutionrelative:uygrpgadapter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5AE344-21EA-4674-A168-07C80608F3EC}|UygRPGAdapter\\UygRPGAdapter.csproj|c:\\users\\monster\\source\\repos\\uygrpgadapter\\uygrpgadapter\\damagesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5AE344-21EA-4674-A168-07C80608F3EC}|UygRPGAdapter\\UygRPGAdapter.csproj|solutionrelative:uygrpgadapter\\damagesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5AE344-21EA-4674-A168-07C80608F3EC}|UygRPGAdapter\\UygRPGAdapter.csproj|c:\\users\\monster\\source\\repos\\uygrpgadapter\\uygrpgadapter\\damageadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5AE344-21EA-4674-A168-07C80608F3EC}|UygRPGAdapter\\UygRPGAdapter.csproj|solutionrelative:uygrpgadapter\\damageadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F5AE344-21EA-4674-A168-07C80608F3EC}|UygRPGAdapter\\UygRPGAdapter.csproj|c:\\users\\monster\\source\\repos\\uygrpgadapter\\uygrpgadapter\\legacydamagesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F5AE344-21EA-4674-A168-07C80608F3EC}|UygRPGAdapter\\UygRPGAdapter.csproj|solutionrelative:uygrpgadapter\\legacydamagesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DamageAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\UygRPGAdapter\\UygRPGAdapter\\DamageAdapter.cs",
+              "RelativeDocumentMoniker": "UygRPGAdapter\\DamageAdapter.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\UygRPGAdapter\\UygRPGAdapter\\DamageAdapter.cs",
+              "RelativeToolTip": "UygRPGAdapter\\DamageAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:54:50.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DamageSystem.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\UygRPGAdapter\\UygRPGAdapter\\DamageSystem.cs",
+              "RelativeDocumentMoniker": "UygRPGAdapter\\DamageSystem.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\UygRPGAdapter\\UygRPGAdapter\\DamageSystem.cs",
+              "RelativeToolTip": "UygRPGAdapter\\DamageSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:54:00.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LegacyDamageSystem.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\UygRPGAdapter\\UygRPGAdapter\\LegacyDamageSystem.cs",
+              "RelativeDocumentMoniker": "UygRPGAdapter\\LegacyDamageSystem.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\UygRPGAdapter\\UygRPGAdapter\\LegacyDamageSystem.cs",
+              "RelativeToolTip": "UygRPGAdapter\\LegacyDamageSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:51:36.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\UygRPGAdapter\\UygRPGAdapter\\Program.cs",
+              "RelativeDocumentMoniker": "UygRPGAdapter\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\UygRPGAdapter\\UygRPGAdapter\\Program.cs",
+              "RelativeToolTip": "UygRPGAdapter\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:50:26.901Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
