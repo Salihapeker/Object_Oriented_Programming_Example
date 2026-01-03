@@ -1,0 +1,7 @@
+C:\Users\MONSTER\source\repos\Uyg2RGB\Uyg2RGB\bin\Debug\Uyg2RGB.exe.config
+C:\Users\MONSTER\source\repos\Uyg2RGB\Uyg2RGB\bin\Debug\Uyg2RGB.exe
+C:\Users\MONSTER\source\repos\Uyg2RGB\Uyg2RGB\bin\Debug\Uyg2RGB.pdb
+C:\Users\MONSTER\source\repos\Uyg2RGB\Uyg2RGB\obj\Debug\Uyg2RGB.csproj.AssemblyReference.cache
+C:\Users\MONSTER\source\repos\Uyg2RGB\Uyg2RGB\obj\Debug\Uyg2RGB.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Uyg2RGB\Uyg2RGB\obj\Debug\Uyg2RGB.exe
+C:\Users\MONSTER\source\repos\Uyg2RGB\Uyg2RGB\obj\Debug\Uyg2RGB.pdb

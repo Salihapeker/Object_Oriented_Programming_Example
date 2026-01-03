@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MONSTER\\source\\repos\\Uyg2RGB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9F81F-EC09-4B14-ABC1-764F770691E3}|Uyg2RGB\\Uyg2RGB.csproj|c:\\users\\monster\\source\\repos\\uyg2rgb\\uyg2rgb\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C9F81F-EC09-4B14-ABC1-764F770691E3}|Uyg2RGB\\Uyg2RGB.csproj|solutionrelative:uyg2rgb\\karakter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9F81F-EC09-4B14-ABC1-764F770691E3}|Uyg2RGB\\Uyg2RGB.csproj|c:\\users\\monster\\source\\repos\\uyg2rgb\\uyg2rgb\\yakindovus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C9F81F-EC09-4B14-ABC1-764F770691E3}|Uyg2RGB\\Uyg2RGB.csproj|solutionrelative:uyg2rgb\\yakindovus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9F81F-EC09-4B14-ABC1-764F770691E3}|Uyg2RGB\\Uyg2RGB.csproj|c:\\users\\monster\\source\\repos\\uyg2rgb\\uyg2rgb\\isaldiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C9F81F-EC09-4B14-ABC1-764F770691E3}|Uyg2RGB\\Uyg2RGB.csproj|solutionrelative:uyg2rgb\\isaldiri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54C9F81F-EC09-4B14-ABC1-764F770691E3}|Uyg2RGB\\Uyg2RGB.csproj|c:\\users\\monster\\source\\repos\\uyg2rgb\\uyg2rgb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54C9F81F-EC09-4B14-ABC1-764F770691E3}|Uyg2RGB\\Uyg2RGB.csproj|solutionrelative:uyg2rgb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Karakter.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg2RGB\\Uyg2RGB\\Karakter.cs",
+              "RelativeDocumentMoniker": "Uyg2RGB\\Karakter.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg2RGB\\Uyg2RGB\\Karakter.cs",
+              "RelativeToolTip": "Uyg2RGB\\Karakter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:40:10.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "YakinDovus.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg2RGB\\Uyg2RGB\\YakinDovus.cs",
+              "RelativeDocumentMoniker": "Uyg2RGB\\YakinDovus.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg2RGB\\Uyg2RGB\\YakinDovus.cs",
+              "RelativeToolTip": "Uyg2RGB\\YakinDovus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:36:30.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ISaldiri.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg2RGB\\Uyg2RGB\\ISaldiri.cs",
+              "RelativeDocumentMoniker": "Uyg2RGB\\ISaldiri.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg2RGB\\Uyg2RGB\\ISaldiri.cs",
+              "RelativeToolTip": "Uyg2RGB\\ISaldiri.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:35:26.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MONSTER\\source\\repos\\Uyg2RGB\\Uyg2RGB\\Program.cs",
+              "RelativeDocumentMoniker": "Uyg2RGB\\Program.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\Uyg2RGB\\Uyg2RGB\\Program.cs",
+              "RelativeToolTip": "Uyg2RGB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T15:34:21.593Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
